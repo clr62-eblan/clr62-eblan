@@ -8,7 +8,7 @@
 ---
 
 ### 🧐 About Me :
-Not a bad C# developer (I think), also making mods for Hearts of Iron 4. That's all. **F*ck vibe-coders**.
+Not a bad C# developer (I think), also making mods for Hearts of Iron 4. That's all.
 
 - :zap: 15 years old
 
