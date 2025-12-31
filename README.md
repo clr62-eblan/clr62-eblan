@@ -1,26 +1,26 @@
 <div align="center">
-        <h1>CLR62</h1>
-        <a href="https://discord.com/users/757664234237853736">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-        </a>
+<h1>CLR62</h1>
+
+<h2>About me</h2>
+<p>Not a bad C# developer (I think), also making mods for Hearts of Iron 4. That's all.</p>
+<p>Developing C# Desktop apps and Unity games</p>
+<p>Also try making Minecraft mods</p>
+<p>And in free time making Heart of Iron 4 mods</p>
+<p>And lastly, try creating websites</p>
+
+<h3>Languages and technologies</h3>
+<div>
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    
+</div>
+<div>
+    <img src="https://img.shields.io/badge/Rider-DC1266?style=for-the-badge&logo=rider&logoColor=white" />
+    <img src="https://img.shields.io/badge/HOI4 Mods-101010?style=for-the-badge&logo=paradoxinteractive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
----
-
-### 🧐 About Me :
-Not a bad C# developer (I think), also making mods for Hearts of Iron 4. That's all.
-
-- :zap: 15 years old
-
-- 🖥️ Developing Unity games and C# Desktop apps
-
-- 🖌️ Love making mods for the Hearts of Iron IV
-
-- 📦 Trying to make mods for Minecraft
-            
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="38px" height="38px" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="38px" height="38px" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="38px" height="38px" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="38px" height="38px" />
 </div>
