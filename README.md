@@ -1,5 +1,5 @@
 <div align="center">
-<h1>CLR62</h1>
+<h1>Flywheel62</h1>
 
 <h2>About me</h2>
 <p>Not a bad C# developer (I think), also making mods for Hearts of Iron 4. That's all.</p>
